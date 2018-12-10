@@ -18,7 +18,7 @@ body {
 
 header {
   width: 100%;
-  background-color: lightblue;
+  background-color: rgb(130, 185, 236);
   text-align: center;
   border: 5px solid black;
 }
@@ -84,7 +84,7 @@ header p {
 }
 
 footer {
-  background-color: lightblue;
+  background-color: rgb(130, 185, 236);
   width: 100%;
   text-align: center;
   border: 5px solid black;
